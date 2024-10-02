@@ -16,7 +16,7 @@ it uses the kickscreen for the Authentication so you have to do full login every
 also, the viaproxy backend address server(address_port_version) must be on 1.7 to run this on viaproxy!
 
 > [!Warning]
-> ViaProxyRevolution-AuthenticationHandler is a temporary solution so it would be discontinued if ViaProxy adds web authentication or same thing. (eventhough that is gonna happen because of there is no users using that because ViaProxy Is Easier to use.)
+> ViaProxyRevolution-AuthenticationHandler is a temporary solution so it would be discontinued if ViaProxy adds web authentication or same thing. (eventhough that isn't gonna happen because of there is no users using that because ViaProxy Is Easier to use.)
 
 # how does this work?
 ### Transfer to ViaProxy
