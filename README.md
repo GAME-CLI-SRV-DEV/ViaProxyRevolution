@@ -12,6 +12,7 @@ The ViaProxy must be configured.
 on a ViaProxy Side, install the authenticationhandler plugin to make sure it uses the whole thing of viaproxy otherwise it will not work.
 
 it uses the kickscreen for the Authentication so you have to do full login everytime. 
+if the player is on other server, they can now use /auth then use transfer.
 
 
 
