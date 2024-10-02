@@ -1,6 +1,6 @@
 # ViaProxyRevolution
-Makes Java Users connect to ViaProxy Server Without Using OpenAuthMod.
-Used On Spigot/Sponge.
+Makes Java edition Users connect to ViaProxy Server.
+Used On Spigot/Sponge/Nukkit.
 
 # How to
 The ViaProxy must be configured.
@@ -11,12 +11,19 @@ The ViaProxy must be configured.
 on a ViaProxy Side, install the authenticationhandler plugin to make sure it uses the whole thing of viaproxy otherwise it will not work.
 
 it uses the kickscreen for the Authentication so you have to do full login everytime. 
-if the player is on other server, they can now use /auth then use /transfer.
 
-
+also, the viaproxy backend address server(address_port_version) must be on 1.7 to run this on viaproxy!
 
 > [!Warning]
-> ViaProxyRevolution-AuthenticationHandler is a temporary solution so it would be discontinued if ViaProxy adds web authentication or same thing.
+> ViaProxyRevolution-AuthenticationHandler is a temporary solution so it would be discontinued if ViaProxy adds web authentication or same thing. (eventhough that is gonna happen because of there is no users using that because ViaProxy Is Easier to use.)
 
 # Process
-uses ViaProxy as a compileonly, this trick causes this plugin run on viaproxy by itself.
+### Transfer to ViaProxy
+Uses TransferProxy API.
+### AuthHandler
+uses ViaProxy as a compileonly, this trick causes this plugin use viaproxy and gains access to minecraftauth.
+
+
+# FAQ
+Are You Going to support VIAaaS Soon?
+sorry, VIAaaS is Not Yet Supporting the PluginAPI yet.
