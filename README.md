@@ -3,6 +3,8 @@
 ViaProxy 서버 주소로 서버를 변경하는 플러그인입니다.
 Java Edition 유저가 베드락 에디션 전용 Geyser 서버의 geyserblockjavaplayers.bypass를 우회하는데 사용될 수 있습니다.
 
+# 스피곳에서 설치
+TransferProxyRevolution-Spigot파일을 받아야합니다.
 # 사용법
 ViaProxy 공용 서버 주소는 다음과 같이 이루어져 있습니다.
 
